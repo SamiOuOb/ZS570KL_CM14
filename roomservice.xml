@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="snowwolf725/android_device_asus_ZS570KL" path="device/asus/zs570kl"    remote="github" revision="cm-14.0" />
+  <project name="snowwolf725/android_kernel_asus_ZS570KL" path="kernel/asus/zs570kl"    remote="github" revision="cm-14.0" />
+  <project name="CyanogenMod/android_external_busybox"    path="external/busybox"       remote="github" revision="cm-13.0" />
+  <project name="omnirom/android_bootable_recovery"       path="bootable/recovery-twrp" remote="github" revision="android-7.0" />
+  <project name="CyanogenMod/android_device_qcom_common"  path="device/qcom/common"     remote="github" revision="cm-14.0" />
+  <project name="CyanogenMod/android_external_stlport"    path="external/stlport"       remote="github" />
+</manifest>
